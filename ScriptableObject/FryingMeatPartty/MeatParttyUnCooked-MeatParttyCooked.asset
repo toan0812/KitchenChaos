@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6187ae499548f78458d843847f2181a6, type: 3}
+  m_Name: MeatParttyUnCooked-MeatParttyCooked
+  m_EditorClassIdentifier: 
+  kitChenInput: {fileID: 11400000, guid: 2281eb6c5c8385a4f83ac30982413cd2, type: 2}
+  kitChenOnput: {fileID: 11400000, guid: f984adc2d90a3a944beded4b2d8b6091, type: 2}
+  FryingTimeMax: 3
